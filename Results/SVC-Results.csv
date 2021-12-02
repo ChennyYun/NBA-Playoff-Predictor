@@ -1,0 +1,31 @@
+,Team,predictions,prediction probability,Conf
+0,Chicago Bulls,1,0.996539571923239,East
+1,Orlando Magic,0,1.1811315424586875e-05,East
+2,Cleveland Cavaliers,0,0.4270482575784653,East
+3,Washington Wizards,1,0.9962806757087032,East
+4,Toronto Raptors,0,0.21269436743765563,East
+5,Philadelphia 76ers,1,0.8625372120558902,East
+6,New York Knicks,1,0.9373750593212105,East
+7,Indiana Pacers,0,0.04970577598812869,East
+8,Boston Celtics,1,0.8814543816867944,East
+9,Miami Heat,1,0.999990051325617,East
+10,Detroit Pistons,0,1.533860065581216e-05,East
+11,Brooklyn Nets,1,0.999999998912563,East
+12,Atlanta Hawks,1,0.8163184873935336,East
+13,Milwaukee Bucks,1,0.9871680286354916,East
+14,Charlotte Hornets,1,0.9810597335473634,East
+0,Sacramento Kings,0,0.035531016478030614,West
+1,Utah Jazz,1,0.9856427948493781,West
+2,Houston Rockets,0,1.3867677735230515e-05,West
+3,New Orleans Pelicans,0,0.0005798445295423662,West
+4,Denver Nuggets,1,0.5849606746697575,West
+5,Phoenix Suns,1,0.9999999807010843,West
+6,Dallas Mavericks,1,0.8906587858559669,West
+7,Los Angeles Clippers,1,0.8684237195543717,West
+8,Memphis Grizzlies,1,0.6760114364308104,West
+9,San Antonio Spurs,0,0.0017200635127868024,West
+10,Minnesota Timberwolves,0,0.3966526950180581,West
+11,Oklahoma City Thunder,0,0.005904967663256236,West
+12,Los Angeles Lakers,1,0.6461662829511349,West
+13,Portland Trail Blazers,1,0.7152841970305145,West
+14,Golden State Warriors,1,0.99999999761696,West
