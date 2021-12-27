@@ -17,5 +17,5 @@ I decided to utilize [basketball-reference.com](https://basketball-reference.com
 ![2022predictions](Images/2022_predictions_east.png)
 ![2022predictions](Images/2022_predictions_east.png)
 
-#Acknowledgements
+##Acknowledgements
 Data Scraper - modified from Heian Lee's [data scraper](https://github.com/hanesy)
